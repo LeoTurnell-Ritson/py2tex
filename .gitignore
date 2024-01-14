@@ -1,0 +1,5 @@
+# Distribution
+build/
+dist/
+*.egg-info/
+*.egg
